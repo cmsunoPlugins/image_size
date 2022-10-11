@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CmsUno\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-11 18:42+0200\n"
+"PO-Revision-Date: 2022-10-11 18:46+0200\n"
+"Last-Translator: malgrange <jacques.malgrange@gmail.com>\n"
+"Language-Team: Jacques Malgrange <contacter@boiteasite.fr>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Report-\tmsgstr-Bugs-To: \n"
+"Report-\t\tmsgstr-Bugs-To: \n"
+"X-Poedit-KeywordsList: _;T_\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-SearchPath-0: ../../..\n"
+
+#: ../../../image_size.php:31
+msgid ""
+"Automatic resizing of images added to your page to fit the display, optimize "
+"loading and improve SEO."
+msgstr ""
+"Cambio de tamaño automático de las imágenes añadidas a su página para "
+"adaptarse a la pantalla, optimizar la carga y mejorar el SEO."
+
+#: ../../../image_size.php:33
+msgid ""
+"This plugin only allows you to resize images larger than their HTML display."
+msgstr ""
+"Este complemento solo le permite cambiar el tamaño de las imágenes más "
+"grandes que su visualización HTML."
+
+#: ../../../image_size.php:36
+msgid ""
+"The created images are saved at the same place as the original image. The "
+"width is added to the end of the name."
+msgstr ""
+"Las imágenes creadas se guardan en el mismo lugar que la imagen original. El "
+"ancho se agrega al final del nombre."
+
+#: ../../../image_size.php:37
+msgid "Settings"
+msgstr "Ajustes"
+
+#: ../../../image_size.php:40
+msgid "JPG quality"
+msgstr "Calidad JPG"
+
+#: ../../../image_size.php:44
+msgid "Quality in percent for images in JPG format. (default: 75)"
+msgstr ""
+"Calidad en porcentaje para imágenes en formato JPG. (predeterminado: 75)"
+
+#: ../../../image_size.php:47
+msgid "Save settings"
+msgstr "Guardar ajustes"
+
+#: ../../../image_size.php:47
+msgid "Save"
+msgstr "Guardar"
+
+#: ../../../image_size.php:49
+msgid "Images from your page"
+msgstr "Imágenes de tu página"
+
+#: ../../../image_size.php:50
+msgid "Don't forget to PUBLISH when you're done."
+msgstr "No olvides PUBLICAR cuando hayas terminado."
+
+#: ../../../image_size.php:54
+msgid "Image"
+msgstr "Imagen"
+
+#: ../../../image_size.php:55
+msgid "Chapter"
+msgstr "Capítulo"
+
+#: ../../../image_size.php:56
+msgid "Source"
+msgstr "Fuente"
+
+#: ../../../image_size.php:57
+msgid "Width displayed"
+msgstr "Ancho mostrado"
+
+#: ../../../image_size.php:58
+msgid "Image file Width"
+msgstr "Ancho del archivo de imagen"
+
+#: ../../../image_size.php:58
+msgid "Get Width"
+msgstr "Obtener ancho"
+
+#: ../../../image_size.php:59
+msgid "Resize"
+msgstr "Redimensionar"
+
+#: ../../../image_size.php:78
+msgid "No publication or incorrect Base URL configuration !"
+msgstr "¡Sin publicación o configuración URL base incorrecta!"
+
+#: ../../../image_size.php:92
+msgid "Backup performed"
+msgstr "Salvaguardar realizada"
+
+#: ../../../image_size.php:93
+msgid "Impossible backup"
+msgstr "Salvaguardar imposible"

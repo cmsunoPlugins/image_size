@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CmsUno\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-11 14:26+0200\n"
+"PO-Revision-Date: 2022-10-11 18:42+0200\n"
+"Last-Translator: malgrange <jacques.malgrange@gmail.com>\n"
+"Language-Team: Jacques Malgrange <contacter@boiteasite.fr>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Report-\tmsgstr-Bugs-To: \n"
+"Report-\t\tmsgstr-Bugs-To: \n"
+"X-Poedit-KeywordsList: _;T_\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-SearchPath-0: ../../..\n"
+
+#: ../../../image_size.php:31
+msgid ""
+"Automatic resizing of images added to your page to fit the display, optimize "
+"loading and improve SEO."
+msgstr ""
+"Redimensionnement automatique des images ajoutées à votre page pour les "
+"adapter à l'affichage, optimiser le chargement et améliorer le référencement."
+
+#: ../../../image_size.php:33
+msgid ""
+"This plugin only allows you to resize images larger than their HTML display."
+msgstr ""
+"Ce plugin vous permet uniquement de redimensionner des images plus grandes "
+"que leur affichage HTML."
+
+#: ../../../image_size.php:36
+msgid ""
+"The created images are saved at the same place as the original image. The "
+"width is added to the end of the name."
+msgstr ""
+"Les images créées sont enregistrées au même endroit que l'image d'origine. "
+"La largeur est ajoutée à la fin du nom."
+
+#: ../../../image_size.php:37
+msgid "Settings"
+msgstr "Config"
+
+#: ../../../image_size.php:40
+msgid "JPG quality"
+msgstr "Qualité JPG"
+
+#: ../../../image_size.php:44
+msgid "Quality in percent for images in JPG format. (default: 75)"
+msgstr ""
+"Qualité en pourcentage pour les images au format JPG. (par défaut : 75)"
+
+#: ../../../image_size.php:47
+msgid "Save settings"
+msgstr "Enregistrer les paramètres"
+
+#: ../../../image_size.php:47
+msgid "Save"
+msgstr "Enregistrer"
+
+#: ../../../image_size.php:49
+msgid "Images from your page"
+msgstr "Images de votre page"
+
+#: ../../../image_size.php:50
+msgid "Don't forget to PUBLISH when you're done."
+msgstr "N'oubliez pas de PUBLIER lorsque vous avez terminé."
+
+#: ../../../image_size.php:54
+msgid "Image"
+msgstr "Image"
+
+#: ../../../image_size.php:55
+msgid "Chapter"
+msgstr "Chapitre"
+
+#: ../../../image_size.php:56
+msgid "Source"
+msgstr "Source"
+
+#: ../../../image_size.php:57
+msgid "Width displayed"
+msgstr "Largeur affichée"
+
+#: ../../../image_size.php:58
+msgid "Image file Width"
+msgstr "Largeur du fichier image"
+
+#: ../../../image_size.php:58
+msgid "Get Width"
+msgstr "Obtenir la largeur"
+
+#: ../../../image_size.php:59
+msgid "Resize"
+msgstr "Redimensionner"
+
+#: ../../../image_size.php:78
+msgid "No publication or incorrect Base URL configuration !"
+msgstr "Pas de publication ou configuration incorrecte de l'URL de base !"
+
+#: ../../../image_size.php:92
+msgid "Backup performed"
+msgstr "Sauvegarde effectuée"
+
+#: ../../../image_size.php:93
+msgid "Impossible backup"
+msgstr "Sauvegarde impossible"
