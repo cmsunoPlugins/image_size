@@ -29,4 +29,5 @@ Automatic resizing of images added to your page to fit the display, optimize loa
 
 ### Versions ###
 
+* 1.1 - 07/12/2022 : JQuery free
 * 1.0 - 11/10/2022 : First stable version

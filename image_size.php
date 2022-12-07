@@ -1,18 +1,11 @@
 <?php
 session_start(); 
-if(!isset($_SERVER['HTTP_X_REQUESTED_WITH']) || strtolower($_SERVER['HTTP_X_REQUESTED_WITH'])!='xmlhttprequest') {sleep(2);exit;} // ajax request
 if(!isset($_POST['unox']) || $_POST['unox']!=$_SESSION['unox']) {sleep(2);exit;} // appel depuis uno.php
 ?>
 <?php
 include('../../config.php');
 include('lang/lang.php');
-$busy = '';
-if(file_exists('../../data/busy.json')) {
-	$q = file_get_contents('../../data/busy.json');
-	$a = json_decode($q,true);
-	$busy = (!empty($a['nom'])?$a['nom']:'');
-}
-else exit;
+$busy = (isset($_POST['ubusy'])?preg_replace("/[^A-Za-z0-9-_]/",'',$_POST['ubusy']):'index');
 // ********************* actions *************************************************************************
 if(isset($_POST['action'])) {
 	switch ($_POST['action']) {
