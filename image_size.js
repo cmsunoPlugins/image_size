@@ -45,6 +45,7 @@ function f_resize_imageSize(){
 				x=new FormData();
 				x.set('action','resize');
 				x.set('unox',Unox);
+				x.set('ubusy',Ubusy);
 				x.set('src',s.innerText);
 				x.set('wid',w.value);
 				x.set('chap',td[1].innerText);
